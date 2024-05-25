@@ -23,3 +23,7 @@ All slides for the course are available in the `slides` directory. Each set of s
 - Particle Swarm Optimization (PSO)
 - Ant Colony Optimization (ACO)
 - Evolutionary Algorithms
+
+## Submodules
+
+- [Existing Repo](https://github.com/baktash81/Fuzzy_Control_System)
